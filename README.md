@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Tapender Sarswat  
 
-🎓 2nd-year B.Tech student at **JECRC University**, passionate about coding, data, and development.
+🎓 3rd-year B.Tech student at **JECRC University**, passionate about coding, data, and development.
 
 ---
 
