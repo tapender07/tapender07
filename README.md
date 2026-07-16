@@ -87,15 +87,11 @@ I enjoy transforming data into meaningful insights and building efficient, user-
 
 📧 **Email:** [tapendersharma0777@gmail.com](mailto:tapendersharma0777@gmail.com)
 
-<!-- Uncomment and replace with your actual links -->
-
-<!--
 💼 LinkedIn: https://linkedin.com/in/tapender-sarswat
 
 🧩 LeetCode: https://leetcode.com/tapcodes
 
 🐙 GitHub: https://github.com/tapender07
--->
 
 ---
 
